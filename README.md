@@ -1,3 +1,3 @@
-# Project_2_Keno
+# Project_CS 342_Keno
 Lottery style game 
 
